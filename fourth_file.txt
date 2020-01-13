@@ -1,0 +1,4 @@
+fourth file
+second line
+some more random text.
+
